@@ -1,5 +1,5 @@
 # Komputer App - Javascript app.
-This web app is used to implement an application where the client can buy  computers fro the store.
+This web app is used to implement an application where the client can buy  computers from the store.
 The following are the main fucntionalities of the application:
 
 
